@@ -3,18 +3,16 @@
 Client app for [Invoice Ninja](https://github.com/oniangel12933/Admin_portal).
 
 - [Desktop Apps](https://invoiceninja.com/desktop)
-
-![ScreenShot](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/5.png)
-![ScreenShot](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/6.png)
-![ScreenShot](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/7.png)
+![ScreenShot](https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/samples/screenshots/5.png)
+![ScreenShot](https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/samples/screenshots/6.png)
+![ScreenShot](https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/samples/screenshots/7.png)
 
 - [Mobile Apps](https://invoiceninja.com/mobile)
-
 <p align="center">
-    <img src="https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/1.png" alt="Dashboard" width="200"/>
-    <img src="https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/2.png" alt="View Invoice" width="200"/>
-    <img src="https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/3.png" alt="List Invoice" width="200"/>
-    <img src="https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/4.png" alt="New Invoice" width="200"/>
+    <img src="https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/samples/screenshots/1.png" alt="Dashboard" width="200"/>
+    <img src="https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/samples/screenshots/2.png" alt="View Invoice" width="200"/>
+    <img src="https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/samples/screenshots/3.png" alt="List Invoice" width="200"/>
+    <img src="https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/samples/screenshots/4.png" alt="New Invoice" width="200"/>
 </p>
 
 ## Setting up the app

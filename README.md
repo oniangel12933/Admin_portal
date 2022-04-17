@@ -1,8 +1,13 @@
 # Invoice Ninja
 
-Client app for [Invoice Ninja](https://github.com/invoiceninja/invoiceninja).
+Client app for [Invoice Ninja](https://github.com/oniangel12933/Admin_portal).
 
 - [Desktop Apps](https://invoiceninja.com/desktop)
+<p align="center">
+    <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/5.png" alt="Dashbord_web" width="500"/>
+    <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/6.png" alt="Invoice_web" width="500"/>
+    <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/7.png" alt="Invoice_View_web" width="500"/>
+</p>
 - [Mobile Apps](https://invoiceninja.com/mobile)
 
 <p align="center">

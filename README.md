@@ -4,9 +4,9 @@ Client app for [Invoice Ninja](https://github.com/oniangel12933/Admin_portal).
 
 - [Desktop Apps](https://invoiceninja.com/desktop)
 
-![image](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/5.png)
+<!-- ![image](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/5.png)
 ![image](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/6.png)
-![image](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/7.png)
+![image](https://github.com/oniangel12933/Admin_portal/tree/main/samples/screenshots/7.png) -->
 
 - [Mobile Apps](https://invoiceninja.com/mobile)
 

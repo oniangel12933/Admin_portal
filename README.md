@@ -3,13 +3,10 @@
 Client app for [Invoice Ninja](https://github.com/oniangel12933/Admin_portal).
 
 - [Desktop Apps](https://invoiceninja.com/desktop)
-<p align="center">
-    <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/5.png" alt="Dashbord_web" width="500"/>
-    <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/6.png" alt="Invoice_web" width="500"/>
-    <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/7.png" alt="Invoice_View_web" width="500"/>
-</p>
+![image](https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/5.png)
+![image](https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/6.png)
+![image](https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/7.png)
 - [Mobile Apps](https://invoiceninja.com/mobile)
-
 <p align="center">
     <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/1.png" alt="Dashboard" width="200"/>
     <img src="https://github.com/invoiceninja/flutter-mobile/blob/master/samples/screenshots/2.png" alt="View Invoice" width="200"/>

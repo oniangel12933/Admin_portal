@@ -79,10 +79,4 @@ The architecture is based off these two projects:
     - Press "Register App" button.
     - Download "google-services.json" and put it in `android/app` directory.
 
-## Credits
 
-[https://github.com/invoiceninja/invoiceninja#credits](https://github.com/invoiceninja/invoiceninja/tree/v5-develop#credits)
-
-## Contributions
-
-We gladly accept contributions! If you'd like to get involved with development please join our [Slack group](http://slack.invoiceninja.com/).
